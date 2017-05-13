@@ -1,2 +1,2 @@
 # hello-world
-thank u
+thank you
